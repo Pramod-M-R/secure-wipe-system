@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+recup_dir.*/
+recup_dir.*
+
+certificate.pdf
+logs.txt
+
+photorec.se2
